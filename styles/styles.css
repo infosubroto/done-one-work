@@ -1,12 +1,17 @@
-
-.section-1 {
+.section-1{
     background-image: url(../images/banner/banner1.png);
     height: 800px;
     padding: 100px 200px;
-    border-radius: none;
 
 }
-.righ-text{
-   
 
+.future-1{
+    background-color: black;
+    background-size: auto;
+
+}
+.keep{
+    text-align:center;
+    color: rgb(182, 7, 7);
+   
 }
